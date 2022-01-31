@@ -1,1 +1,1 @@
-# PyClass
+# Python Class
