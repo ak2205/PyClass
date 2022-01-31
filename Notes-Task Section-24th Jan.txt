@@ -1,0 +1,37 @@
+TASK SECTION FOR 24th JAN:
+
+--> A sample program describing viewer on how the compiler goes about its business,
+    when inputs of different data types are being fed to it either during compile or run time.
+
+1st sample program
+
+subject1 = int(input("enter marks secured in subject 1"))
+subject2 = int(input("enter marks secured in subject 2"))
+subject3 = int(input("enter marks secured in subject 3"))
+
+if subject1>=50 and subject2>=50 and subject3>=50:
+    print("Candidate has cleared the examinations")
+else:
+    print("Candidate has failed to clear the examination process")
+
+
+2nd sample program
+
+a = int(input("number of classes held"))
+b = int(input("number of classes attended"))
+engineering = input("enter engineering details")
+c = b/a*100
+if c >= 80 or engineering =="yes":
+    print("allowed to enter assesment hall")
+else:
+    print("not allowed to enter assesment hall")
+
+
+3rd sample program
+
+marks=int(input("enter marks"))
+if marks>=35:
+    print("pass")
+
+else:
+    print("fail")
