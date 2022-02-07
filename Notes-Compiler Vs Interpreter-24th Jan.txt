@@ -1,0 +1,57 @@
+
+-->What is Compiler?
+
+   A compiler is a computer program that transforms code written in a high-level programming language into the machine code. 
+   It is a program which translates the human-readable code to a language a computer processor understands (binary 1 and 0 bits). 
+   The computer processes the machine code to perform the corresponding tasks.
+   A compiler should comply with the syntax rule of that programming language in which it is written. 
+   However, the compiler is only a program and can not fix errors found in that program. 
+   So, if you make a mistake, you need to make changes in the syntax of your program. 
+   Otherwise, it will not compile.
+
+-->What is Interpreter?
+
+   An interpreter is a computer program, which converts each high-level program statement into the machine code. 
+   This includes source code, pre-compiled code, and scripts. 
+   Both compiler and interpreters do the same job which is converting higher level programming language to machine code. 
+   However, a compiler will convert the code into machine code (create an exe) before program run. 
+   Interpreters convert code into machine code when the program is run.
+
+-->KEY DIFFERENCE
+
+1) Compiler transforms code written in a high-level programming language into the machine code, at once, before program runs, 
+   whereas an Interpreter converts each high-level program statement, one by one, into the machine code, during program run.
+
+2) Compiled code runs faster while interpreted code runs slower.
+   
+   Compiler displays all errors after compilation, 
+   on the other hand, the Interpreter displays errors of each line one by one.
+   
+   Compiler is based on translation linking-loading model, 
+   whereas Interpreter is based on Interpretation Method.
+   
+   Compiler takes an entire program whereas the Interpreter takes a single line of code.
+
+-->ROLE OF COMPILER
+
+1) Compliers reads the source code, outputs executable code.
+   
+   It translates software written in a higher-level language into instructions that computer can understand. 
+   It converts the text that a programmer writes into a format the CPU can understand.
+   
+   The process of compilation is relatively complicated. 
+   It spends a lot of time analyzing and processing the program.
+   
+   The executable result is some form of machine-specific binary code.
+
+-->ROLE OF INTERPRETER
+   
+2) The interpreter converts the source code line-by-line during RUN Time.
+   
+   Interpret completely translates a program written in a high-level language into machine level language.
+ 
+   Interpreter allows evaluation and modification of the program while it is executing.
+   
+   Relatively less time spent for analyzing and processing the program
+   
+   Program execution is relatively slow compared to compiler

@@ -1,0 +1,47 @@
+TASK SECTION FOR 23RD JAN:
+
+PROGRAMMING CONCEPTS:
+
+--> Essential notes for describing basics of syntax construction, its concepts and its usage in python:
+
+1) What is a Variable?
+
+   Ans: Variable is something that stores values, for e.g. Like a memory.
+
+2) What is actually a Data Type?
+
+   Ans: Data type is the type of data being used and it is made to indicate the knowledge to the system.
+
+3) What is a Function?
+
+   Ans: It is something that performs some specific tasks.
+
+4) Define an Inbuilt function.
+
+   Ans: An inbuilt fucntion is somthing that is already there in the programme.
+
+5) Brief a Data structure.
+
+   Ans: It is a variety or a format for organizing and storing data.
+
+6) What exactly are Modules?
+
+   Ans: Those are simply files with the “.py” extension containing Python code that can be imported inside another Python Program.
+
+7) What is an index in python?
+
+   Ans: An index refers to a position within an ordered list. 
+	Python strings can be thought of as lists of characters, 
+	where each character is given an index from zero (at the beginning) to the length minus one (at the end).
+
+7) What is a constant?
+
+   Ans: Variables with values that cannot be changed are just contants.
+
+8) What is the Role of an identifier?
+
+   Ans: identifies a function or a variable in a programme.
+
+9) Describe the usage of Operators.
+
+   Ans: To carry out mathematical functions or logical computations, operators are used as symbols.
